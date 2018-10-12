@@ -1,0 +1,50 @@
+
+
+
+.col {
+    display: inline-block;
+}
+
+.col-all {
+    display: inline-block;
+}
+
+.dib {
+    display: inline-block;
+}
+
+.dib-all>* {
+    display: inline-block;
+}
+
+.db {
+    display: block;
+}
+
+.db-all>* {
+    display: block;
+}
+
+/* 鼠标手势 */
+
+.cp {
+    cursor: pointer;
+}
+
+.cp-all>* {
+    cursor: pointer;
+}
+
+/* 文字排版 */
+
+.tac {
+    text-align: center
+}
+
+.tal {
+    text-align: left;
+}
+
+.tar {
+    text-align: right;
+}

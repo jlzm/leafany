@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <Nav />
-    <h1>关于我们</h1>
+    <h1>产品展示</h1>
     <Footer/>
   </div>
 </template>
